@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class KlickButton : MonoBehaviour {
+public class KlickButton : MonoBehaviour 
+{
 
     string helloworld = "HelloWorld";
 
