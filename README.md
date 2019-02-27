@@ -7,6 +7,5 @@ New Repository for training
 
 Short Desc: First try to export WebGL.
 
-=======
 ShareMyGame Link: https://www.sharemygame.com/share/3c5238c8-3028-46eb-8437-9d41e4f46267
 =======
